@@ -37,7 +37,7 @@ awesome deep learning papers for reinforcement learning
 
 - [14. The Predictron: End-To-End Learning and Planning ]
 
-## 三. DQN的各种改进版本（注重於模型的改進）
+## 三. DQN的各種改進版本（注重於模型的改進）
 - [1. Deep Recurrent Q-Learning for Partially Observable MDPs, M. Hausknecht and P. Stone, arXiv, 2015.]
 
 - [2. Deep Attention Recurrent Q-Network]
