@@ -37,7 +37,7 @@ awesome deep learning papers for reinforcement learning
 
 - [14. The Predictron: End-To-End Learning and Planning ]
 
-## 三. DQN的各种改进版本（侧重于模型的改进）
+## 三. DQN的各种改进版本（注重於模型的改進）
 - [1. Deep Recurrent Q-Learning for Partially Observable MDPs, M. Hausknecht and P. Stone, arXiv, 2015.]
 
 - [2. Deep Attention Recurrent Q-Network]
@@ -60,7 +60,7 @@ awesome deep learning papers for reinforcement learning
 
 - [11. Strategic Attentive Writer for Learning Macro-Actions]
 
-## 四. 基于策略梯度的深度强化学习
+## 四. 基于策略梯度的深度強化學習
 ### 深度策略梯度：
 
 - [1. End-to-End Training of Deep Visuomotor Policies]
@@ -69,11 +69,11 @@ awesome deep learning papers for reinforcement learning
 
 - [3. Trust Region Policy Optimization]
 
-### 深度行动者评论家算法：
+### 深度演員評論家算法：
 
 - [1. Deterministic Policy Gradient Algorithms]
 
-- [- [2. Continuous control with deep reinforcement learning]
+- [2. Continuous control with deep reinforcement learning]
 
 - [3. High-Dimensional Continuous Control Using Using Generalized Advantage Estimation]
 
@@ -95,11 +95,11 @@ awesome deep learning papers for reinforcement learning
 
 - [2. Interactive Control of Diverse Complex Characters with Neural Networks]
 
-### 连续动作空间下探索改进：
+### 連續動作空間下探索改進：
 
 - [1. Curiosity-driven Exploration in DRL via Bayesian Neuarl Networks]
 
-### 结合策略梯度和Q学习：
+### 结合策略梯度和Q學習：
 
 - [1. Q-PROP: SAMPLE-EFFICIENT POLICY GRADIENT WITH AN OFF-POLICY CRITIC]
 
@@ -117,7 +117,7 @@ awesome deep learning papers for reinforcement learning
 
 - [5. Generalizing Skills with Semi-Supervised Reinforcement Learning]
 
-## 五. 分层DRL
+## 五. 分層DRL
 - [1. Deep Successor Reinforcement Learning]
 
 - [2. Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation]
@@ -126,7 +126,7 @@ awesome deep learning papers for reinforcement learning
 
 - [4. Stochastic Neural Networks for Hierarchical Reinforcement Learning – Authors: Carlos Florensa, Yan Duan, Pieter Abbeel]
 
-## 六. DRL中的多任务和迁移学习
+## 六. DRL中的多任務和遷移學習
 - [1. ADAAPT: A Deep Architecture for Adaptive Policy Transfer from Multiple Sources]
 
 - [2. A Deep Hierarchical Approach to Lifelong Learning in Minecraft]
@@ -143,12 +143,12 @@ awesome deep learning papers for reinforcement learning
 
 - [8. Modular Multitask Reinforcement Learning with Policy Sketches]
 
-## 七. 基于外部记忆模块的DRL模型
+## 七. 基于外部記憶模塊的DRL模型
 - [1. Control of Memory, Active Perception, and Action in Minecraft]
 
 - [2. Model-Free Episodic Control]
 
-## 八. DRL中探索与利用问题
+## 八. DRL中探索與利用問題
 - [1. Action-Conditional Video Prediction using Deep Networks in Atari Games]
 
 - [2. Curiosity-driven Exploration in Deep Reinforcement Learning via Bayesian Neural Networks]
@@ -179,26 +179,26 @@ awesome deep learning papers for reinforcement learning
 
 - [3. Generalizing Skills with Semi-Supervised Reinforcement Learning]
 
-## 十一. 探索+监督学习
+## 十一. 探索+監督學習
 - [1. Deep learning for real-time Atari game play using offline Monte-Carlo tree search planning]
 
 - [2. Better Computer Go Player with Neural Network and Long-term Prediction]
 
 - [3. Mastering the game of Go with deep neural networks and tree search, D. Silver et al., Nature, 2016.]
 
-## 十二. 异步DRL
+## 十二. 異步DRL
 - [1. Asynchronous Methods for Deep Reinforcement Learning]
 
 - [2. Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU]
 
-## 十三：适用于难度较大的游戏场景
+## 十三：適用于難度較大的遊戲場景
 - [1. Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation, T. D. Kulkarni et al., arXiv, 2016.]
 
 - [2. Strategic Attentive Writer for Learning Macro-Actions]
 
 - [3. Unifying Count-Based Exploration and Intrinsic Motivation]
 
-## 十四：单个网络玩多个游戏
+## 十四：單個網路玩多個遊戲
 - [1. Policy Distillation]
 
 - [2. Universal Value Function Approximators]
@@ -212,7 +212,7 @@ awesome deep learning papers for reinforcement learning
 
 - [3. Smooth UCT search in computer poker]
 
-## 十六：Doom游戏
+## 十六：Doom遊戲
 - [1. ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning]
 
 - [2. Training Agent for First-Person Shooter Game with Actor-Critic Curriculum Learning]
@@ -223,10 +223,10 @@ awesome deep learning papers for reinforcement learning
 
 - [5. Deep Reinforcement Learning From Raw Pixels in Doom]
 
-## 十七：大规模动作空间
+## 十七：大规模動作空間
 - [1. Deep Reinforcement Learning in Large Discrete Action Spaces]
 
-## 十八：参数化连续动作空间
+## 十八：參數化連續動作空間
 - [1. Deep Reinforcement Learning in Parameterized Action Space]
 
 ## 十九：Deep Model
@@ -242,8 +242,8 @@ awesome deep learning papers for reinforcement learning
 
 - [6. Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models]
 
-## 二十：DRL应用
-### 机器人领域：
+## 二十：DRL應用
+### 機器人領域：
 
 - [1. Trust Region Policy Optimization]
 
@@ -323,7 +323,7 @@ awesome deep learning papers for reinforcement learning
 
 - [1. Deep Reinforcement Learning for Accelerating the Convergence Rate]
 
-### 利用DRL来设计神经网络：
+### 利用DRL來設計神經網路：
 
 - [1. Designing Neural Network Architectures using Reinforcement Learning]
 
@@ -331,11 +331,11 @@ awesome deep learning papers for reinforcement learning
 
 - [3. Neural Architecture Search with Reinforcement Learning]
 
-### 控制信号灯：
+### 控制交通信號：
 
 - [1. Using a Deep Reinforcement Learning Agent for Traffic Signal Control]
 
-### 自动驾驶：
+### 自動駕駛：
 
 - [1. CARMA: A Deep Reinforcement Learning Approach to Autonomous Driving]
 
@@ -344,11 +344,10 @@ awesome deep learning papers for reinforcement learning
 - [3. Deep Reinforcement Learning framework for Autonomous Driving]
 
 ## 二十一：其它方向
-### 避免危险状态：
+### 避免危險狀態：
 - [1. Combating Deep Reinforcement Learning’s Sisyphean Curse with Intrinsic Fear]
 
-DRL中On-Policy vs. Off-Policy 比较：
-
+### DRL中On-Policy vs. Off-Policy 比較：
 - [1. On-Policy vs. Off-Policy Updates for Deep Reinforcement Learning]
 
 
